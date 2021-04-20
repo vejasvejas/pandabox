@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+}
+
+.item{
+  flex:1 1 calc(33.33% - 30px);
+  margin:5px;
+  box-sizing:border-box; 
+  min: width 14px;0px; 
+padding:40px 10px; font-size:200%; text-align:center;
+}
+.item > img {
+  width: 100px;
+}
